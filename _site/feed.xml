@@ -6,10 +6,12 @@
 </description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+
     <pubDate>Mon, 18 Sep 2017 10:10:27 -0600</pubDate>
     <lastBuildDate>Mon, 18 Sep 2017 10:10:27 -0600</lastBuildDate>
+
     <generator>Jekyll v3.4.0</generator>
-    
+
       <item>
         <title>Make some sketches</title>
         <description>&lt;p&gt;Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi&lt;/p&gt;
@@ -39,14 +41,14 @@
         <pubDate>Tue, 14 Apr 2015 04:58:12 -0600</pubDate>
         <link>http://localhost:4000//logo/development/2015/04/14/make-some-sketches.html</link>
         <guid isPermaLink="true">http://localhost:4000//logo/development/2015/04/14/make-some-sketches.html</guid>
-        
-        
+
+
         <category>Logo</category>
-        
+
         <category>Development</category>
-        
+
       </item>
-    
+
       <item>
         <title>A cup of coffee for you</title>
         <description>&lt;p&gt;Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi&lt;/p&gt;
@@ -76,14 +78,14 @@
         <pubDate>Tue, 14 Apr 2015 04:57:12 -0600</pubDate>
         <link>http://localhost:4000//design/bussiness/2015/04/14/a-cup-of-coffee-for-you.html</link>
         <guid isPermaLink="true">http://localhost:4000//design/bussiness/2015/04/14/a-cup-of-coffee-for-you.html</guid>
-        
-        
+
+
         <category>Design</category>
-        
+
         <category>Bussiness</category>
-        
+
       </item>
-    
+
       <item>
         <title>Look what we have done</title>
         <description>&lt;p&gt;Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi&lt;/p&gt;
@@ -113,14 +115,14 @@
         <pubDate>Tue, 14 Apr 2015 04:52:12 -0600</pubDate>
         <link>http://localhost:4000//design/development/2015/04/14/look-what-we-have-done.html</link>
         <guid isPermaLink="true">http://localhost:4000//design/development/2015/04/14/look-what-we-have-done.html</guid>
-        
-        
+
+
         <category>Design</category>
-        
+
         <category>Development</category>
-        
+
       </item>
-    
+
       <item>
         <title>Welcome to Jekyll!</title>
         <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
@@ -143,13 +145,13 @@
         <pubDate>Tue, 10 Feb 2015 01:19:12 -0700</pubDate>
         <link>http://localhost:4000//jekyll/update/2015/02/10/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://localhost:4000//jekyll/update/2015/02/10/welcome-to-jekyll.html</guid>
-        
-        
+
+
         <category>jekyll</category>
-        
+
         <category>update</category>
-        
+
       </item>
-    
+
   </channel>
 </rss>
